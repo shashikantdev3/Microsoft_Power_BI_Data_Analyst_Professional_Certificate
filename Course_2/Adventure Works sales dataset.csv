@@ -1,0 +1,49 @@
+Product ID;Product Category;Product Subcategory;Product Name;Product Description;Product Price;Product Weight;Product Size;Order ID;Customer ID;Order Date;Order Status;Order Quantity;Order Total;Payment Method
+1001;Mountain Bikes;Cross Country;TrailBlazer 1000;Lightweight and versatile;1200.00;25.0;M;2001;3001;2023-03-01;Shipped;2;2400.00;Credit Card
+1002;Mountain Bikes;Cross Country;TrailBlazer 2000;High-performance mountain bike;1500.00;22.0;L;2002;3002;2023-03-02;Processing;1;1500.00;PayPal
+1003;Road Bikes;Racing;SpeedMaster 1000;Agile and aerodynamic road bike;1800.00;18.0;M;2003;3003;2023-03-03;Cancelled;3;5400.00;Credit Card
+1004;Road Bikes;Racing;SpeedMaster 2000;Premium racing road bike;2100.00;16.0;L;2004;3004;2023-03-04;Shipped;1;2100.00;Credit Card
+1005;Touring Bikes;Long Distance;Explorer 1000;Comfortable and durable touring bike;1300.00;27.0;M;2005;3005;2023-03-05;Processing;2;2600.00;PayPal
+1006;Touring Bikes;Long Distance;Explorer 2000;Advanced touring bike;1600.00;24.0;L;2006;3006;2023-03-06;Shipped;1;1600.00;Credit Card
+1007;Mountain Bikes;Downhill;GravityMaster 1000;Rugged and durable downhill bike;2200.00;29.0;M;2007;3007;2023-03-07;Shipped;2;4400.00;PayPal
+1008;Mountain Bikes;Downhill;GravityMaster 2000;Extreme downhill performance;2500.00;27.0;L;2008;3008;2023-03-08;Processing;1;2500.00;Credit Card
+1021;Mountain Bikes;Trail;Pathfinder 1000;Agile trail bike for all skill levels;1100.00;24.0;M;2021;3021;2023-03-21;Shipped;2;2200.00;Credit Card
+1022;Mountain Bikes;Trail;Pathfinder 2000;High-performance trail bike;1400.00;21.0;L;2022;3022;2023-03-22;Processing;1;1400.00;PayPal
+1023;Road Bikes;Touring;Voyager 1000;Comfortable touring road bike;1700.00;20.0;M;2023;3023;2023-03-23;Cancelled;3;5100.00;Credit Card
+1024;Road Bikes;Touring;Voyager 2000;Advanced touring road bike;2000.00;18.0;L;2024;3024;2023-03-24;Shipped;1;2000.00;Credit Card
+1025;Touring Bikes;Adventure;Adventurer 1000;Durable bike for long adventures;1500.00;28.0;M;2025;3025;2023-03-25;Processing;2;3000.00;PayPal
+1026;Touring Bikes;Adventure;Adventurer 2000;Premium adventure touring bike;1800.00;26.0;L;2026;3026;2023-03-26;Shipped;1;1800.00;Credit Card
+1027;Mountain Bikes;Enduro;EnduroMaster 1000;Endurance-focused mountain bike;2300.00;30.0;M;2027;3027;2023-03-27;Shipped;2;4600.00;PayPal
+1028;Mountain Bikes;Enduro;EnduroMaster 2000;High-performance enduro mountain bike;2600.00;28.0;L;2028;3028;2023-03-28;Processing;1;2600.00;Credit Card
+1041;Mountain Bikes;Fat Bikes;FatTrail 1000;All-terrain fat bike;1300.00;32.0;M;2041;3041;2023-03-11;Shipped;2;2600.00;Credit Card
+1042;Mountain Bikes;Fat Bikes;FatTrail 2000;High-performance fat bike;1600.00;29.0;L;2042;3042;2023-03-12;Processing;1;1600.00;PayPal
+1043;Road Bikes;Cyclocross;CrossRider 1000;Versatile cyclocross bike;1900.00;21.0;M;2043;3043;2023-03-13;Cancelled;3;5700.00;Credit Card
+1044;Road Bikes;Cyclocross;CrossRider 2000;Advanced cyclocross bike;2200.00;19.0;L;2044;3044;2023-03-14;Shipped;1;2200.00;Credit Card
+1045;Touring Bikes;Tandem;DuoExplorer 1000;Comfortable tandem touring bike;2000.00;36.0;M;2045;3045;2023-03-15;Processing;2;4000.00;PayPal
+1046;Touring Bikes;Tandem;DuoExplorer 2000;High-performance tandem touring bike;2300.00;34.0;L;2046;3046;2023-03-16;Shipped;1;2300.00;Credit Card
+1047;Mountain Bikes;Electric;E-Mountain 1000;Electric mountain bike;3000.00;40.0;M;2047;3047;2023-03-17;Shipped;2;6000.00;PayPal
+1048;Mountain Bikes;Electric;E-Mountain 2000;High-performance electric mountain bike;3500.00;38.0;L;2048;3048;2023-03-18;Processing;1;3500.00;Credit Card
+1061;E-Bikes;City;UrbanEco 1000;Eco-friendly electric city bike;2000.00;35.0;M;2061;3061;2023-03-01;Shipped;2;4000.00;Credit Card
+1062;E-Bikes;City;UrbanEco 2000;High-performance electric city bike;2500.00;33.0;L;2062;3062;2023-03-02;Processing;1;2500.00;PayPal
+1063;Road Bikes;Gravel;GravelMaster 1000;All-terrain gravel bike;1700.00;22.0;M;2063;3063;2023-03-03;Cancelled;3;5100.00;Credit Card
+1064;Road Bikes;Gravel;GravelMaster 2000;High-performance gravel bike;2100.00;20.0;L;2064;3064;2023-03-04;Shipped;1;2100.00;Credit Card
+1065;Touring Bikes;Folding;FoldAway 1000;Compact folding touring bike;1500.00;30.0;M;2065;3065;2023-03-05;Processing;2;3000.00;PayPal
+1066;Touring Bikes;Folding;FoldAway 2000;Advanced folding touring bike;1800.00;28.0;L;2066;3066;2023-03-06;Shipped;1;1800.00;Credit Card
+1067;E-Bikes;Mountain;E-TrailBlazer 1000;Electric mountain bike;3200.00;42.0;M;2067;3067;2023-03-07;Shipped;2;6400.00;PayPal
+1068;E-Bikes;Mountain;E-TrailBlazer 2000;High-performance electric mountain bike;3700.00;40.0;L;2068;3068;2023-03-08;Processing;1;3700.00;Credit Card
+1081;Hybrid Bikes;Commuter;CommutePro 1000;Efficient commuter hybrid bike;1200.00;27.0;M;2081;3081;2023-02-19;Shipped;2;2400.00;Credit Card
+1082;Hybrid Bikes;Commuter;CommutePro 2000;High-performance commuter hybrid bike;1500.00;25.0;L;2082;3082;2023-02-20;Processing;1;1500.00;PayPal
+1083;Road Bikes;Aero;AeroSpeed 1000;Aerodynamic road bike;2800.00;18.0;M;2083;3083;2023-02-21;Cancelled;3;8400.00;Credit Card
+1084;Road Bikes;Aero;AeroSpeed 2000;Advanced aerodynamic road bike;3200.00;16.0;L;2084;3084;2023-02-22;Shipped;1;3200.00;Credit Card
+1085;Touring Bikes;Recumbent;ReclineRider 1000;Comfortable recumbent touring bike;2000.00;33.0;M;2085;3085;2023-02-23;Processing;2;4000.00;PayPal
+1086;Touring Bikes;Recumbent;ReclineRider 2000;High-performance recumbent touring bike;2400.00;30.0;L;2086;3086;2023-02-24;Shipped;1;2400.00;Credit Card
+1087;Mountain Bikes;Downhill;DownhillDominator 1000;Downhill mountain bike;2900.00;34.0;M;2087;3087;2023-02-25;Shipped;2;5800.00;PayPal
+1088;Mountain Bikes;Downhill;DownhillDominator 2000;High-performance downhill mountain bike;3300.00;32.0;L;2088;3088;2023-02-26;Processing;1;3300.00;PayPal
+1101;Kids Bikes;Balance;LittleBalancer 1000;Starter balance bike for kids;150.00;10.0;M;2101;3101;2023-02-01;Shipped;2;300.00;Credit Card
+1102;Kids Bikes;Balance;LittleBalancer 2000;Upgraded balance bike for kids;200.00;9.0;L;2102;3102;2023-02-02;Processing;1;200.00;PayPal
+1103;BMX Bikes;Freestyle;FreestyleMaster 1000;Beginner freestyle BMX bike;400.00;25.0;M;2103;3103;2023-02-03;Cancelled;3;1200.00;Credit Card
+1104;BMX Bikes;Freestyle;FreestyleMaster 2000;Advanced freestyle BMX bike;600.00;23.0;L;2104;3104;2023-02-04;Shipped;1;600.00;Credit Card
+1105;Mountain Bikes;Cross Country;XC-Rider 1000;Cross country mountain bike;1800.00;29.0;M;2105;3105;2023-02-05;Processing;2;3600.00;PayPal
+1106;Mountain Bikes;Cross Country;XC-Rider 2000;High-performance cross country bike;2400.00;27.0;L;2106;3106;2023-02-06;Shipped;1;2400.00;Credit Card
+1107;Road Bikes;Endurance;EnduranceElite 1000;Endurance road bike;2100.00;20.0;M;2107;3107;2023-02-07;Shipped;2;4200.00;PayPal
+1108;Road Bikes;Endurance;EnduranceElite 2000;High-performance endurance road bike;2600.00;18.0;L;2108;3108;2023-02-08;Processing;1;2600.00;Credit Card
